@@ -27,7 +27,7 @@ After installing the project, you can run it locally using the following command
 npm start
 ```
 
-Visit `http://localhost:{PORT}/`` in your web browser to access Kiddies Adventure Zone.
+Visit `http://localhost:{3000}/`` in your web browser to access Kiddies Adventure Zone.
 Contributing
 
 I welcome contributions from the community to make Kiddies Adventure Zone even better! If you would like to contribute, please follow these steps:
